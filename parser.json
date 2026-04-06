@@ -1,0 +1,8 @@
+{
+  "min_version": null,
+  "max_version": null,
+  "lang": "gleam",
+  "location": null,
+  "url": "https://github.com/gleam-lang/tree-sitter-gleam",
+  "semver": false
+}
