@@ -2,5 +2,5 @@
   "lang": "gleam",
   "url": "https://github.com/gleam-lang/tree-sitter-gleam",
   "semver": false,
-  "parser_version": "4e4643c2215c2b2343d9ec179c798818c132c9cc"
+  "parser_version": "c610c282ef73f830d80c1f0999dce8e83f024ef5"
 }
